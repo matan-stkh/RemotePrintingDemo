@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.241c2b9e.css",
-    "main.js": "./static/js/main.455bf338.js",
+    "main.js": "./static/js/main.3763b42a.js",
     "static/media/Entrecote30.mp4": "./static/media/Entrecote30.757024247a640ab0617f.mp4",
     "static/media/Sirloin50.mp4": "./static/media/Sirloin50.4111881debf851bc3b8e.mp4",
     "static/media/Picanha30.mp4": "./static/media/Picanha30.f94753b7f0b70761d985.mp4",
@@ -38,6 +38,7 @@
     "static/media/startPage.png": "./static/media/startPage.eb13081a5b0a929f53e5.png",
     "static/media/Dis_ourProcess.png": "./static/media/Dis_ourProcess.e47c7ffd21ed3e4b24c7.png",
     "static/media/DiscoverPage.png": "./static/media/DiscoverPage.981270459c0d9aa9f930.png",
+    "static/media/welcome_text.png": "./static/media/welcome_text.460a1608f8a66b4f4d62.png",
     "static/media/OrderSum.png": "./static/media/OrderSum.c297e771ffb4f0b4c9a2.png",
     "static/media/BtnEntrecote50Iso.png": "./static/media/BtnEntrecote50Iso.d231e6f772324ad19815.png",
     "static/media/BtnEntrecote30Iso.png": "./static/media/BtnEntrecote30Iso.da8951c08c37905ab71d.png",
@@ -62,10 +63,10 @@
     "static/media/BtnClickPicanha20Iso.png": "./static/media/BtnClickPicanha20Iso.6ccba61a989347d73357.png",
     "index.html": "./index.html",
     "main.241c2b9e.css.map": "./static/css/main.241c2b9e.css.map",
-    "main.455bf338.js.map": "./static/js/main.455bf338.js.map"
+    "main.3763b42a.js.map": "./static/js/main.3763b42a.js.map"
   },
   "entrypoints": [
     "static/css/main.241c2b9e.css",
-    "static/js/main.455bf338.js"
+    "static/js/main.3763b42a.js"
   ]
 }
