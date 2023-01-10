@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.241c2b9e.css",
-    "main.js": "./static/js/main.f5b074e8.js",
+    "main.js": "./static/js/main.b8337ad7.js",
     "static/media/Sirloin50.mp4": "./static/media/Sirloin50.b3dbf7c20e1feb365a74.mp4",
     "static/media/Picanha30.mp4": "./static/media/Picanha30.2f6888dc72eb8d4c71f8.mp4",
     "static/media/Picanha50.mp4": "./static/media/Picanha50.87a3abbcd80485d0bb4e.mp4",
@@ -13,6 +13,7 @@
     "static/media/Entrecote50.mp4": "./static/media/Entrecote50.3c63a917d47557266026.mp4",
     "static/media/Sustainability.png": "./static/media/Sustainability.bd5a4aa52412050444dd.png",
     "static/media/OurProcess.png": "./static/media/OurProcess.273138eaa2994c54e94c.png",
+    "static/media/followqr.png": "./static/media/followqr.3214cabbc3fd056459c5.png",
     "static/media/FAQPage.png": "./static/media/FAQPage.2855445b90ab45e5f8dd.png",
     "static/media/Header_Entrecote.png": "./static/media/Header_Entrecote.3a8378a7fcc4c04b59e0.png",
     "static/media/Header_Sirloin.png": "./static/media/Header_Sirloin.09044d66c1eebd727831.png",
@@ -63,10 +64,10 @@
     "static/media/BtnClickPicanha20Iso.png": "./static/media/BtnClickPicanha20Iso.6ccba61a989347d73357.png",
     "index.html": "./index.html",
     "main.241c2b9e.css.map": "./static/css/main.241c2b9e.css.map",
-    "main.f5b074e8.js.map": "./static/js/main.f5b074e8.js.map"
+    "main.b8337ad7.js.map": "./static/js/main.b8337ad7.js.map"
   },
   "entrypoints": [
     "static/css/main.241c2b9e.css",
-    "static/js/main.f5b074e8.js"
+    "static/js/main.b8337ad7.js"
   ]
 }
