@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.241c2b9e.css",
-    "main.js": "./static/js/main.b8337ad7.js",
+    "main.css": "./static/css/main.c53d7d2b.css",
+    "main.js": "./static/js/main.1454e5d0.js",
     "static/media/Sirloin50.mp4": "./static/media/Sirloin50.b3dbf7c20e1feb365a74.mp4",
     "static/media/Picanha30.mp4": "./static/media/Picanha30.2f6888dc72eb8d4c71f8.mp4",
     "static/media/Picanha50.mp4": "./static/media/Picanha50.87a3abbcd80485d0bb4e.mp4",
@@ -20,11 +20,11 @@
     "static/media/Header_Picanha.png": "./static/media/Header_Picanha.5af04d3b68c3ce14d06a.png",
     "static/media/Button_Sirloin.png": "./static/media/Button_Sirloin.3fc225ef1b51feea8789.png",
     "static/media/Bottun_Entrecote.png": "./static/media/Bottun_Entrecote.05654a3b512107d20b34.png",
-    "static/media/EndPage.png": "./static/media/EndPage.dc4b54c4e6b71ef8a960.png",
     "static/media/Bottun_Picanha.png": "./static/media/Bottun_Picanha.67db1ebbe1a2bdf77851.png",
     "static/media/Sirloin50Iso.png": "./static/media/Sirloin50Iso.dd7e2b0e71c6740e6486.png",
     "static/media/Dis_FAQ.png": "./static/media/Dis_FAQ.4b6740b49b4922a427f4.png",
     "static/media/Sirloin20Iso.png": "./static/media/Sirloin20Iso.9864747707f7dd8e53b5.png",
+    "static/media/you_just_printed.png": "./static/media/you_just_printed.6a6de431d8d751c21067.png",
     "static/media/Entrecote50Iso.png": "./static/media/Entrecote50Iso.eebe2eb11a20d5c8a8fb.png",
     "static/media/Entrecote30Iso.png": "./static/media/Entrecote30Iso.1688eefa4364f273169b.png",
     "static/media/Picanha50Iso.png": "./static/media/Picanha50Iso.801d80b5bf6ac5b0e8ac.png",
@@ -32,22 +32,16 @@
     "static/media/Sirloin30Iso.png": "./static/media/Sirloin30Iso.9fd10c08c3336e44812c.png",
     "static/media/Dis_sustainability.png": "./static/media/Dis_sustainability.697a99d0b49d4cffa403.png",
     "static/media/Picanha30Iso.png": "./static/media/Picanha30Iso.54bc6f46c5bc6f4d0e03.png",
-    "static/media/selectMeat.png": "./static/media/selectMeat.e8564b88943255ad01ae.png",
-    "static/media/VersionError.png": "./static/media/VersionError.3b314baf874772a73a54.png",
-    "static/media/SendOrder.png": "./static/media/SendOrder.be5ef5e9264ccb22de2e.png",
     "static/media/Picanha20Iso.png": "./static/media/Picanha20Iso.ef61c0d63640361a9738.png",
-    "static/media/startPage.png": "./static/media/startPage.eb13081a5b0a929f53e5.png",
     "static/media/Dis_ourProcess.png": "./static/media/Dis_ourProcess.e47c7ffd21ed3e4b24c7.png",
-    "static/media/DiscoverPage.png": "./static/media/DiscoverPage.981270459c0d9aa9f930.png",
     "static/media/welcome_text.png": "./static/media/welcome_text.460a1608f8a66b4f4d62.png",
-    "static/media/OrderSum.png": "./static/media/OrderSum.c297e771ffb4f0b4c9a2.png",
     "static/media/BtnEntrecote50Iso.png": "./static/media/BtnEntrecote50Iso.d231e6f772324ad19815.png",
     "static/media/BtnEntrecote30Iso.png": "./static/media/BtnEntrecote30Iso.da8951c08c37905ab71d.png",
-    "static/media/OrderSent.png": "./static/media/OrderSent.54f39b86fbb664be9bdb.png",
     "static/media/BtnEntrecote20Iso.png": "./static/media/BtnEntrecote20Iso.fcabe4d07cf255d7d7ea.png",
     "static/media/BtnClickEntrecote50Iso.png": "./static/media/BtnClickEntrecote50Iso.c75bf6dcfae87ffffd64.png",
     "static/media/BtnClickEntrecote30Iso.png": "./static/media/BtnClickEntrecote30Iso.a3d9df3b77e1630d4ab5.png",
     "static/media/BtnClickEntrecote20Iso.png": "./static/media/BtnClickEntrecote20Iso.452065c69bf7538b3257.png",
+    "static/media/Password.png": "./static/media/Password.227fe9233e8356569066.png",
     "static/media/BtnSirloin50Iso.png": "./static/media/BtnSirloin50Iso.863428feb9746ffbfda9.png",
     "static/media/BtnSirloin30Iso.png": "./static/media/BtnSirloin30Iso.630c07614ac48d962b63.png",
     "static/media/BtnSirloin20Iso.png": "./static/media/BtnSirloin20Iso.f11e6ea42d959e696691.png",
@@ -63,11 +57,11 @@
     "static/media/BtnClickPicanha30Iso.png": "./static/media/BtnClickPicanha30Iso.2c36eed6a2d88965fcd8.png",
     "static/media/BtnClickPicanha20Iso.png": "./static/media/BtnClickPicanha20Iso.6ccba61a989347d73357.png",
     "index.html": "./index.html",
-    "main.241c2b9e.css.map": "./static/css/main.241c2b9e.css.map",
-    "main.b8337ad7.js.map": "./static/js/main.b8337ad7.js.map"
+    "main.c53d7d2b.css.map": "./static/css/main.c53d7d2b.css.map",
+    "main.1454e5d0.js.map": "./static/js/main.1454e5d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.241c2b9e.css",
-    "static/js/main.b8337ad7.js"
+    "static/css/main.c53d7d2b.css",
+    "static/js/main.1454e5d0.js"
   ]
 }
